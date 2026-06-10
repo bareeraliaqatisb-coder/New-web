@@ -129,8 +129,8 @@ footer{
 <!-- HOME SECTION -->
 <header>
 <div class="hero">
-    <h1>Your Name</h1>
-    <h2>Robotics & Software Engineering Student</h2>
+    <h1>Bareera Liaqat</h1>
+    <h2>Robotics Student</h2>
     <p>
         Welcome to my personal portfolio website. I am passionate about
         robotics, programming, and innovative technologies. This website
@@ -148,15 +148,15 @@ footer{
         <h3>Brief Personal Introduction</h3>
         <p>
             I am a motivated student with a strong interest in robotics,
-            software development, and emerging technologies.
+          Advanced software development and emerging technologiesof AI.
         </p>
     </div>
 
     <div class="card">
         <h3>Educational Background</h3>
         <p>
-            Currently pursuing a degree in Robotics and Intelligent Systems,
-            focusing on programming, automation, and AI technologies.
+            Currently I am pursuing a BS degree in Robotics and Intelligence Systems from Hamdard University Islamabad Campus. Moreover i had worked at many companies as an internee to gain and implement practical experience with studies.
+            
         </p>
     </div>
 
@@ -164,7 +164,7 @@ footer{
         <h3>Career Goals</h3>
         <p>
             My goal is to become a skilled robotics engineer and contribute
-            to innovative solutions that improve lives through technology.
+            to innovative solutions achieved from critical thinking and complex problem solving that improve lives through technology.
         </p>
     </div>
 
@@ -242,12 +242,12 @@ footer{
 
     <div class="card">
         <h3>Email</h3>
-        <p>yourname@email.com</p>
+        <p>bareeraliaqat.isb@gmail.com</p>
     </div>
 
     <div class="card">
         <h3>GitHub Profile</h3>
-        <p>github.com/yourusername</p>
+        <p>bareeraliaq</p>
     </div>
 
     <div class="card">
